@@ -3,7 +3,7 @@
 - Atuação em projetos envolvendo customização, desenvolvimento de extensões e integrações, deployment, treinamentos e suporte para Dynamics 365/Dataverse e Power Platform. 
 - 10 anos de experiência com desenvolvimento para Microsoft Power Platform e Dynamics (CRM 2011 a 365) usando linguagens de programação C# e Javascript 
 - Profissional certificado MS Power Platform Solution Architect Expert, MCSA: Dynamics 365 e MCSE: Business Applications
-- Pós-Graduando em Arquitetura de Sistemas .NET com Azure pela FIAP
+- Pós-Graduado em Arquitetura de Sistemas .NET com Azure pela FIAP
 - Formado em Ciência da Computação pela UNIP
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
