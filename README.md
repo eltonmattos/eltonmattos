@@ -1,5 +1,6 @@
 ## Elton Fonseca de Mattos
 
+- 💼 Desenvolvedor Dynamics 365 CE na [AlfaPeople](https://alfapeople.com/br/)
 - 💻 Atuação em projetos envolvendo customização, desenvolvimento de extensões e integrações, deployment, treinamentos e suporte para Dynamics 365/Dataverse e Power Platform. 
 - ⌛ 10 anos de experiência com desenvolvimento para Microsoft Power Platform e Dynamics (CRM 2011 a 365) usando linguagens de programação C# e Javascript 
 - 🏅 Profissional certificado MS Power Platform Solution Architect Expert, MCSA: Dynamics 365 e MCSE: Business Applications
